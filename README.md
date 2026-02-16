@@ -75,7 +75,7 @@ Atualmente estou estudando programação para me tornar um desenvolvedor Front-e
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-/*Espaço para a tabelinha*/
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JonesFuturoDev/JonesFuturoDev/output/github-contribution-grid-snake-dark.svg">
