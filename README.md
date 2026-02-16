@@ -12,7 +12,13 @@ Me chamo Jones Santana, tenho 40 anos e descobri recentimente minha paixão pela
 Atualmente estou estudando programação para me tornar um desenvolvedor Front-end.
 
 <p align="left">
-   
+    <a href="https://github.com/JonesFuturoDev?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/JonesFuturoDev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
     <a href="https://github.com/JonesFuturoDev?tab=followers">
         <img 
             alt="Seguidores" 
